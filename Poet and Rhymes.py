@@ -22,3 +22,4 @@ def findRhyme(input1, input2, input3):
 input1 = input()
 input2 = input().split()
 input3 = int(input())
+print(findRhyme(input1, input2, input3))

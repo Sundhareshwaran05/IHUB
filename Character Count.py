@@ -8,5 +8,4 @@ for i in a:
         b.append(i)
     else :
         continue
-print(b)
 print(len(b))
